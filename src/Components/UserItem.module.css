@@ -1,0 +1,12 @@
+
+.item {
+    border: 1px solid #000;
+    list-style: none;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item button {
+    padding: 6px 20px;
+}
